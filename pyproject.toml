@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "trackapi"
+version = "1.0.0"
+description = ""
+authors = ["Hasan Sajedi <hassansajedi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.101.0"
+uvicorn = "^0.23.2"
+httpx = "^0.24.1"
+pandas = "^2.0.3"
+graphene = "^3.3"
+fastapi-pagination = "^0.12.6"
+pydantic = "^2.1.1"
+python-dotenv = "^1.0.0"
+redis = "^4.6.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+pytest-asyncio = "^0.21.1"
+aioresponses = "^0.7.4"
+black = "^23.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

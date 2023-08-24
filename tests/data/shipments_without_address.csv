@@ -1,0 +1,10 @@
+tracking_number,carrier,sender_address,receiver_address,article_name,article_quantity,article_price,SKU,status
+TN12345678,DHL,"Street 1, 10115 Berlin, Germany","",Laptop,1,800,LP123,in-transit
+TN12345678,DHL,"Street 1, 10115 Berlin, Germany","",Mouse,1,25,MO456,in-transit
+TN12345678,DHL,"Street 1, 10115 Berlin, Germany","",SmartPhone,5,3500,SamsungA2,in-transit
+TN12345679,UPS,"Street 2, 20144 Hamburg, Germany","",Monitor,2,200,MT789,inbound-scan
+TN12345680,DPD,"Street 3, 80331 Munich, Germany","",Keyboard,1,50,KB012,delivery
+TN12345680,DPD,"Street 3, 80331 Munich, Germany","",Mouse,1,25,MO456,delivery
+TN12345681,FedEx,"Street 4, 50667 Cologne, Germany","",Laptop,1,900,LP345,transit
+TN12345681,FedEx,"Street 4, 50667 Cologne, Germany","",Headphones,1,100,HP678,transit
+TN12345682,GLS,"Street 5, 70173 Stuttgart, Germany","",Smartphone,1,500,SP901,scanned

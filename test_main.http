@@ -1,0 +1,36 @@
+# Shipments [Resfull] endpoint
+GET http://127.0.0.1:8000/api/shipments/
+Accept: application/json
+###
+GET http://127.0.0.1:8000/api/shipments/?search=DHL
+Accept: application/json
+###
+GET http://127.0.0.1:8000/api/shipments/?search=DHL&page=1&size=2
+Accept: application/json
+###
+
+# Shipments [GraphQL] endpoint
+GET http://127.0.0.1:8000/api/shipments/graphql/
+Accept: application/json
+###
+GET http://127.0.0.1:8000/api/shipments/graphql/?search=DHL
+Accept: application/json
+###
+GET http://127.0.0.1:8000/api/shipments/graphql/?search=DHL&page=1&size=2
+Accept: application/json
+###
+GET http://127.0.0.1:8000/api/shipments/graphql/?search=DHL&page=1&size=2&query={shipments{tracking_number carrier}}
+Accept: application/json
+
+###
+# VALID ADDRESS
+GET http://127.0.0.1:8000/api/weather/current/Street 9, 1016 Amsterdam, Netherlands
+Accept: application/json
+###
+# Remove cached weather information from cache server and fetch the response again
+GET http://127.0.0.1:8000/api/weather/current/Street 9, 1016 Amsterdam, Netherlands?drop_key=true
+Accept: application/json
+###
+# INVALID ADDRESS
+GET http://127.0.0.1:8000/api/weather/current/invalid_address
+Accept: application/json

@@ -1,0 +1,320 @@
+2023-08-05 11:47:44,480 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 11:47:44,489 - INFO - Response: 200
+2023-08-05 11:47:44,494 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 11:47:44,501 - INFO - Response: 200
+2023-08-05 11:47:44,506 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 11:47:44,514 - INFO - Response: 200
+2023-08-05 11:47:44,519 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 11:47:44,527 - INFO - Response: 200
+2023-08-05 11:47:44,532 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 11:47:44,541 - INFO - Response: 200
+2023-08-05 11:47:44,545 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 11:47:44,558 - INFO - Response: 200
+2023-08-05 11:47:44,562 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 11:47:44,572 - INFO - Response: 200
+2023-08-05 11:47:44,576 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 11:47:44,587 - INFO - Response: 200
+2023-08-05 11:47:44,591 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 11:47:44,602 - INFO - Response: 200
+2023-08-05 11:47:44,607 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 11:47:44,618 - INFO - Response: 200
+2023-08-05 11:47:44,686 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 11:47:44,687 - INFO - Response: 200
+2023-08-05 11:52:11,742 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 11:52:11,751 - INFO - Response: 200
+2023-08-05 11:52:11,755 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 11:52:11,762 - INFO - Response: 200
+2023-08-05 11:52:11,767 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 11:52:11,777 - INFO - Response: 200
+2023-08-05 11:52:11,783 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 11:52:11,792 - INFO - Response: 200
+2023-08-05 11:52:11,797 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 11:52:11,806 - INFO - Response: 200
+2023-08-05 11:52:11,810 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 11:52:11,821 - INFO - Response: 200
+2023-08-05 11:52:11,825 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 11:52:11,833 - INFO - Response: 200
+2023-08-05 11:52:11,837 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 11:52:11,848 - INFO - Response: 200
+2023-08-05 11:52:11,853 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 11:52:11,866 - INFO - Response: 200
+2023-08-05 11:52:11,870 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 11:52:11,882 - INFO - Response: 200
+2023-08-05 11:52:11,962 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 11:52:11,963 - INFO - Response: 200
+2023-08-05 12:03:19,425 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:03:19,434 - INFO - Response: 200
+2023-08-05 12:03:19,439 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:03:19,446 - INFO - Response: 200
+2023-08-05 12:03:19,451 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:03:19,459 - INFO - Response: 200
+2023-08-05 12:03:19,464 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:03:19,472 - INFO - Response: 200
+2023-08-05 12:03:19,478 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:03:19,486 - INFO - Response: 200
+2023-08-05 12:03:19,490 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:03:19,500 - INFO - Response: 200
+2023-08-05 12:03:19,505 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:03:19,514 - INFO - Response: 200
+2023-08-05 12:03:19,518 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:03:19,530 - INFO - Response: 200
+2023-08-05 12:03:19,535 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:03:19,545 - INFO - Response: 200
+2023-08-05 12:03:19,550 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:03:19,561 - INFO - Response: 200
+2023-08-05 12:03:19,634 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:03:19,635 - INFO - Response: 200
+2023-08-05 12:06:23,393 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:06:23,402 - INFO - Response: 200
+2023-08-05 12:06:23,407 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:06:23,416 - INFO - Response: 200
+2023-08-05 12:06:23,420 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:06:23,429 - INFO - Response: 200
+2023-08-05 12:06:23,434 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:06:23,444 - INFO - Response: 200
+2023-08-05 12:06:23,449 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:06:23,457 - INFO - Response: 200
+2023-08-05 12:06:23,462 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:06:23,472 - INFO - Response: 200
+2023-08-05 12:06:23,477 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:06:23,486 - INFO - Response: 200
+2023-08-05 12:06:23,490 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:06:23,501 - INFO - Response: 200
+2023-08-05 12:06:23,507 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:06:23,518 - INFO - Response: 200
+2023-08-05 12:06:23,522 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:06:23,532 - INFO - Response: 200
+2023-08-05 12:06:23,597 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:06:23,598 - INFO - Response: 200
+2023-08-05 12:24:07,037 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:24:07,045 - INFO - Response: 200
+2023-08-05 12:24:07,051 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:24:07,058 - INFO - Response: 200
+2023-08-05 12:24:07,063 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:24:07,073 - INFO - Response: 200
+2023-08-05 12:24:07,078 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:24:07,086 - INFO - Response: 200
+2023-08-05 12:24:07,092 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:24:07,100 - INFO - Response: 200
+2023-08-05 12:24:07,104 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:24:07,115 - INFO - Response: 200
+2023-08-05 12:24:07,119 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:24:07,128 - INFO - Response: 200
+2023-08-05 12:24:07,133 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:24:07,147 - INFO - Response: 200
+2023-08-05 12:24:07,153 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:24:07,165 - INFO - Response: 200
+2023-08-05 12:24:07,170 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:24:07,180 - INFO - Response: 200
+2023-08-05 12:24:07,251 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:24:07,252 - INFO - Response: 200
+2023-08-05 12:30:51,500 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:30:51,508 - INFO - Response: 200
+2023-08-05 12:30:51,513 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:30:51,520 - INFO - Response: 200
+2023-08-05 12:30:51,524 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:30:51,534 - INFO - Response: 200
+2023-08-05 12:30:51,538 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:30:51,547 - INFO - Response: 200
+2023-08-05 12:30:51,551 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:30:51,559 - INFO - Response: 200
+2023-08-05 12:30:51,564 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:30:51,574 - INFO - Response: 200
+2023-08-05 12:30:51,579 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:30:51,587 - INFO - Response: 200
+2023-08-05 12:30:51,592 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:30:51,602 - INFO - Response: 200
+2023-08-05 12:30:51,607 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:30:51,617 - INFO - Response: 200
+2023-08-05 12:30:51,622 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:30:51,632 - INFO - Response: 200
+2023-08-05 12:30:51,700 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:30:51,701 - INFO - Response: 200
+2023-08-05 12:33:46,213 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:33:46,222 - INFO - Response: 200
+2023-08-05 12:33:46,226 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:33:46,234 - INFO - Response: 200
+2023-08-05 12:33:46,239 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:33:46,247 - INFO - Response: 200
+2023-08-05 12:33:46,252 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:33:46,260 - INFO - Response: 200
+2023-08-05 12:33:46,264 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:33:46,272 - INFO - Response: 200
+2023-08-05 12:33:46,276 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:33:46,287 - INFO - Response: 200
+2023-08-05 12:33:46,291 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:33:46,300 - INFO - Response: 200
+2023-08-05 12:33:46,304 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:33:46,314 - INFO - Response: 200
+2023-08-05 12:33:46,319 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:33:46,329 - INFO - Response: 200
+2023-08-05 12:33:46,333 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:33:46,343 - INFO - Response: 200
+2023-08-05 12:33:46,406 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:33:46,407 - INFO - Response: 200
+2023-08-05 12:38:19,735 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:38:19,743 - INFO - Response: 200
+2023-08-05 12:38:19,748 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 12:38:19,755 - INFO - Response: 200
+2023-08-05 12:38:19,760 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 12:38:19,769 - INFO - Response: 200
+2023-08-05 12:38:19,773 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 12:38:19,782 - INFO - Response: 200
+2023-08-05 12:38:19,786 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 12:38:19,794 - INFO - Response: 200
+2023-08-05 12:38:19,799 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:38:19,809 - INFO - Response: 200
+2023-08-05 12:38:19,814 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 12:38:19,822 - INFO - Response: 200
+2023-08-05 12:38:19,826 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 12:38:19,838 - INFO - Response: 200
+2023-08-05 12:38:19,842 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 12:38:19,853 - INFO - Response: 200
+2023-08-05 12:38:19,858 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 12:38:19,867 - INFO - Response: 200
+2023-08-05 12:38:19,935 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 12:38:19,936 - INFO - Response: 200
+2023-08-05 14:19:57,929 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:19:57,941 - INFO - Response: 200
+2023-08-05 14:19:57,946 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:19:57,953 - INFO - Response: 200
+2023-08-05 14:19:57,957 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:19:57,966 - INFO - Response: 200
+2023-08-05 14:19:57,971 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:19:57,980 - INFO - Response: 200
+2023-08-05 14:19:57,985 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:19:57,993 - INFO - Response: 200
+2023-08-05 14:19:57,997 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:19:58,008 - INFO - Response: 200
+2023-08-05 14:19:58,012 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:19:58,021 - INFO - Response: 200
+2023-08-05 14:19:58,025 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:19:58,037 - INFO - Response: 200
+2023-08-05 14:19:58,042 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:19:58,053 - INFO - Response: 200
+2023-08-05 14:19:58,058 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:19:58,070 - INFO - Response: 200
+2023-08-05 14:19:58,140 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:19:58,141 - INFO - Response: 200
+2023-08-05 14:21:20,184 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:20,193 - INFO - Response: 200
+2023-08-05 14:21:20,198 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:20,205 - INFO - Response: 200
+2023-08-05 14:21:20,210 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:21:20,220 - INFO - Response: 200
+2023-08-05 14:21:20,224 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:21:20,233 - INFO - Response: 200
+2023-08-05 14:21:20,238 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:21:20,246 - INFO - Response: 200
+2023-08-05 14:21:20,250 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:20,261 - INFO - Response: 200
+2023-08-05 14:21:20,265 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:20,273 - INFO - Response: 200
+2023-08-05 14:21:20,278 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:21:20,290 - INFO - Response: 200
+2023-08-05 14:21:20,295 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:21:20,306 - INFO - Response: 200
+2023-08-05 14:21:20,311 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:21:20,322 - INFO - Response: 200
+2023-08-05 14:21:20,396 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:21:20,397 - INFO - Response: 200
+2023-08-05 14:21:36,918 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:36,927 - INFO - Response: 200
+2023-08-05 14:21:36,932 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:36,939 - INFO - Response: 200
+2023-08-05 14:21:36,944 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:21:36,954 - INFO - Response: 200
+2023-08-05 14:21:36,958 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:21:36,967 - INFO - Response: 200
+2023-08-05 14:21:36,971 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:21:36,979 - INFO - Response: 200
+2023-08-05 14:21:36,983 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:36,993 - INFO - Response: 200
+2023-08-05 14:21:36,998 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:37,006 - INFO - Response: 200
+2023-08-05 14:21:37,011 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:21:37,021 - INFO - Response: 200
+2023-08-05 14:21:37,025 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:21:37,036 - INFO - Response: 200
+2023-08-05 14:21:37,040 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:21:37,052 - INFO - Response: 200
+2023-08-05 14:21:37,118 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:21:37,119 - INFO - Response: 200
+2023-08-05 14:21:43,849 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:43,859 - INFO - Response: 200
+2023-08-05 14:21:43,864 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:21:43,873 - INFO - Response: 200
+2023-08-05 14:21:43,879 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:21:43,889 - INFO - Response: 200
+2023-08-05 14:21:43,895 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:21:43,905 - INFO - Response: 200
+2023-08-05 14:21:43,911 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:21:43,921 - INFO - Response: 200
+2023-08-05 14:21:43,927 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:43,940 - INFO - Response: 200
+2023-08-05 14:21:43,946 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:21:43,988 - INFO - Response: 200
+2023-08-05 14:21:43,995 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:21:44,010 - INFO - Response: 200
+2023-08-05 14:21:44,017 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:21:44,031 - INFO - Response: 200
+2023-08-05 14:21:44,037 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:21:44,050 - INFO - Response: 200
+2023-08-05 14:21:44,144 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:21:44,146 - INFO - Response: 200
+2023-08-05 14:22:06,285 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:22:06,293 - INFO - Response: 200
+2023-08-05 14:22:06,298 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:22:06,306 - INFO - Response: 200
+2023-08-05 14:22:06,310 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:22:06,319 - INFO - Response: 200
+2023-08-05 14:22:06,324 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:22:06,333 - INFO - Response: 200
+2023-08-05 14:22:06,338 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:22:06,346 - INFO - Response: 200
+2023-08-05 14:22:06,351 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:22:06,361 - INFO - Response: 200
+2023-08-05 14:22:06,365 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:22:06,373 - INFO - Response: 200
+2023-08-05 14:22:06,378 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:22:06,388 - INFO - Response: 200
+2023-08-05 14:22:06,392 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:22:06,403 - INFO - Response: 200
+2023-08-05 14:22:06,408 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:22:06,419 - INFO - Response: 200
+2023-08-05 14:22:06,490 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:22:06,491 - INFO - Response: 200
+2023-08-05 14:22:37,994 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:22:38,003 - INFO - Response: 200
+2023-08-05 14:22:38,008 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 14:22:38,016 - INFO - Response: 200
+2023-08-05 14:22:38,020 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 14:22:38,030 - INFO - Response: 200
+2023-08-05 14:22:38,035 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 14:22:38,044 - INFO - Response: 200
+2023-08-05 14:22:38,049 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 14:22:38,059 - INFO - Response: 200
+2023-08-05 14:22:38,064 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:22:38,075 - INFO - Response: 200
+2023-08-05 14:22:38,079 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 14:22:38,088 - INFO - Response: 200
+2023-08-05 14:22:38,092 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 14:22:38,103 - INFO - Response: 200
+2023-08-05 14:22:38,108 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 14:22:38,120 - INFO - Response: 200
+2023-08-05 14:22:38,125 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 14:22:38,136 - INFO - Response: 200
+2023-08-05 14:22:38,204 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 14:22:38,205 - INFO - Response: 200
+2023-08-05 15:20:37,363 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 15:20:37,686 - INFO - Request: GET http://testserver/shipments/
+2023-08-05 15:20:37,951 - INFO - Request: GET http://testserver/shipments/?search=TN12345678
+2023-08-05 15:20:38,217 - INFO - Request: GET http://testserver/shipments/?search=TN12345682
+2023-08-05 15:20:38,491 - INFO - Request: GET http://testserver/shipments/?search=invalidSearchValue
+2023-08-05 15:20:38,773 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 15:20:39,044 - INFO - Request: GET http://testserver/shipments/graphql/
+2023-08-05 15:20:39,320 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345678
+2023-08-05 15:20:39,595 - INFO - Request: GET http://testserver/shipments/graphql/?search=TN12345682
+2023-08-05 15:20:39,808 - INFO - Request: GET http://testserver/shipments/graphql/?search=invalidSearchValue
+2023-08-05 15:20:40,553 - INFO - Request: GET http://testserver/weather/current/Berlin, Germany
+2023-08-05 15:20:40,554 - INFO - Response: 200
